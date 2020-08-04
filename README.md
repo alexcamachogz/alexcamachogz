@@ -12,10 +12,7 @@ I'm a software development engineer who is passionate about technology, professi
 ⚡ My pronouns are she / her.
 
 ## Find me around the web 🌎:
-<img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/medium.png" alt="Medium" width="16px"> Writing in <a href="https://medium.com/@alexcamachogz">Medium</a>.
-
-<img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/twitter.png" alt="Medium" width="16px"> Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter</a>.
-
-<img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/codepen.png" alt="Codepen" width="16px"> Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a>.
-
-<img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/linkedin.png" alt="Medium" width="16px"> And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
+- Writing in <a href="https://medium.com/@alexcamachogz">Medium</a> ✍🏻
+- Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter</a> 🗣
+- Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a> 🖥
+- And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a> 👩🏻‍💼
