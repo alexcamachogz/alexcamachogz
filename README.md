@@ -12,7 +12,7 @@ I'm a software development engineer who is passionate about technology, professi
 ⚡ My pronouns are she / her.
 
 ## Find me around the web 🌎:
-- Writing in <a href="https://medium.com/@alexcamachogz">Medium <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/medium.png" alt="Medium"></a>
-- Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/twitter.png" alt="Medium"></a>
-- Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Linkedin <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/codepen.png" alt="Codepen" width="24px"></a>
-- And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/linkedin.png" alt="Medium"></a>
+- Writing in <a href="https://medium.com/@alexcamachogz">Medium <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/medium.png" alt="Medium" width="16px"></a>
+- Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/twitter.png" alt="Medium" width="16px"></a>
+- Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Linkedin <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/codepen.png" alt="Codepen" width="16px"></a>
+- And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/icons/linkedin.png" alt="Medium" width="16px"></a>
