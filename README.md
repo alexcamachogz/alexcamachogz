@@ -12,7 +12,7 @@ I'm a software development engineer who is passionate about technology, professi
 ⚡ My pronouns are she / her.
 
 ## Find me around the web 🌎:
-- Writing in <a href="https://medium.com/@alexcamachogz">Medium</a> ✍🏻
+- Writing in <a href="https://dev.to/alexcamachogz">Dev.to</a> ✍🏻
 - Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter</a> 🗣
 - Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a> 🖥
 - And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a> 👩🏻‍💼
