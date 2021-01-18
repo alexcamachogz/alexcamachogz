@@ -5,7 +5,7 @@ I'm a software development engineer who is passionate about technology, professi
 
 👩🏻‍💻 I'm currently working as a QA Big Data.
 
-🌱 I'm currently learning JavaScript.
+🌱 I'm currently learning React.
 
 💬 Ask me about whatever you want. I am interested in helping and sharing.
 
