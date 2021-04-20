@@ -5,7 +5,7 @@ I'm a software development engineer who is passionate about technology, professi
 
 👩🏻‍💻 I'm currently working as a Frontend Dev at @IBM.
 
-🌱 I'm currently learning React and improve my frontend skills.
+🌱 Now I am learning React.
 
 💬 Ask me about whatever you want. I am interested in helping and sharing.
 
@@ -13,14 +13,11 @@ I'm a software development engineer who is passionate about technology, professi
 
 ## 🌎 Find me around the web:
 - Writing in <a href="https://dev.to/alexcamachogz">Dev.to</a> ✍🏻
-- Talking and sharing in <a href="https://medium.com/@alexcamachogz">Twitter</a> 🗣
+- Talking and sharing in <a href="https://twitter.com/alexcamachogz">Twitter</a> 🗣
 - Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a> 🖥
-- And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a> 👩🏻‍💼
+- And know a little more about my work in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a> 👩🏻‍💼
 
 ## 📈 Some of my stats are:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamachogz&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=alexcamachogz&hide=contribs,prs&theme=tokyonight&show_icons=true)
-![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz&layout=compact)
-
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=alexcamachogz&theme=nord&show_icons=true&hide=contribs)
+![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamachogz&layout=compact&theme=nord)
