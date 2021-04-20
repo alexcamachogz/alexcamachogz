@@ -1,5 +1,5 @@
 ### 👋🏻 Hi there, I am Alex
-<img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/portada-alex.png" alt="banner that says Alejandra Camacho - Software development enfineer">
+[//]: <img src="https://raw.githubusercontent.com/alexcamachogz/alexcamachogz/master/portada-alex.png" alt="banner that says Alejandra Camacho - Software development enfineer">
 
 I'm a software development engineer who is passionate about technology, professional development, building community and cats, who doesn't love cats? Some technologies I enjoy working include JavaScript, ReactJS, CSS and UX & UI. 
 
@@ -19,5 +19,5 @@ I'm a software development engineer who is passionate about technology, professi
 
 ## 📈 Some of my stats are:
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexcamachogz&theme=nord&show_icons=true&hide=contribs)
-![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz&layout=compact&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamachogz&layout=compact&theme=nord)
+![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz&layout=compact&theme=nord)
