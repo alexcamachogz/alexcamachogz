@@ -18,7 +18,9 @@ I'm a software development engineer who is passionate about technology, professi
 - And know a little more about me in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a> 👩🏻‍💼
 
 ## 📈 Some of my stats are:
-[![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz)](https://github.com/alexcamachogz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamachogz&layout=compact)](https://github.com/alexcamachogz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamachogz&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexcamachogz&hide=contribs,prs&theme=tokyonight&show_icons=true)
+![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexcamachogz&layout=compact)
+
 
 
