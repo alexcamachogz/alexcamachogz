@@ -3,7 +3,7 @@
 
 I'm a software development engineer who is passionate about technology, professional development, building community and cats, who doesn't love cats? Some technologies I enjoy working include JavaScript, ReactJS, CSS and UX & UI. I have worked on projects with Agile methodologies with development environment based on Angular.
 
-👩🏻‍💻 I'm currently working as a Frontend Dev at @IBM.
+👩🏻‍💻 I'm currently working as a Frontend Dev at <a href="https://github.com/IBM">@IBM</a>.
 
 🌱 Now I am learning React, I love it.
 
