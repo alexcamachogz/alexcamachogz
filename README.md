@@ -30,10 +30,10 @@ I'm a software development engineer who is passionate about technology, professi
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://dev.to/alexcamachogz">Dev.to</a>
-- Talking and sharing in <a href="https://twitter.com/alexcamachogz">Twitter</a>
-- Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a>
-- And know a little more about my work in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>
+- Writing in <a href="https://dev.to/alexcamachogz" target="_blank">Dev.to</a>
+- Talking and sharing in <a href="https://twitter.com/alexcamachogz" target="_blank">Twitter</a>
+- Experimenting with CSS in <a href="https://codepen.io/alexcamachogz" target="_blank">Codepen</a>
+- And know a little more about my work in <a href="https://www.linkedin.com/in/alexcamachogz/" target="_blank">Linkedin</a>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
