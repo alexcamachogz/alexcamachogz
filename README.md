@@ -9,7 +9,7 @@ I'm a software development engineer who is passionate about technology, professi
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing.
 
-⚡ My pronouns are she / her.
+⚡ &nbsp;&nbsp;My pronouns are she / her.
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
