@@ -40,5 +40,7 @@ I'm a software development engineer who is passionate about technology, professi
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=alexcamachogz&theme=buefy&show_icons=true&hide=contribs" />
+</p>
+<p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=alexcamachogz.alexcamachogz" />
 </p>
