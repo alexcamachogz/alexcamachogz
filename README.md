@@ -5,7 +5,7 @@
 
 I'm a software development engineer who is passionate about technology, professional development, building community and cats, who doesn't love cats? Some technologies I enjoy working include JavaScript, ReactJS, CSS and UX & UI. I have worked on projects with Agile methodologies with development environment based on Angular.
 
-👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>.
+<!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
 🌱 &nbsp;&nbsp;Now I am learning Swift, I love it.
 
