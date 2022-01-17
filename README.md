@@ -7,7 +7,7 @@ I'm a software development engineer who is passionate about technology, professi
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
-🌱 &nbsp;&nbsp;Now I am learning Swift, I love it.
+🌱 &nbsp;&nbsp;Now I am learning Vue.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing.
 
