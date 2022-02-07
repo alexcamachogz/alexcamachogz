@@ -23,7 +23,7 @@ I'm a software development engineer who is passionate about technology, professi
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=Vue&logoColor=61DAFB" alt="Vue" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />&nbsp;&nbsp;
