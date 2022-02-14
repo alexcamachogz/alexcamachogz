@@ -3,7 +3,7 @@
 
 <!-- https://github.com/alexcamachogz/alexcamachogz/blob/a2baf4c4607a5e27e6d01b4b720d1088e85bac2a/alex-banner.png?raw=true -->
 
-I'm a software development engineer who is passionate about technology, professional development, building community and cats, who doesn't love cats? Some technologies I enjoy working include JavaScript, ReactJS, CSS and UX & UI. I have worked on projects with Agile methodologies with development environment based on Angular.
+I’m a front-end developer based in Mexico with 7 years of experience in the software industry. I have worked on projects with a development environment based on Angular. I also have experience in the layout and integration of web applications using tools like GitHub, Notion, Slack, and Jira. Furthermore, I like to work in teams, and I enjoy writing blogs about the things that I am learning.
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
