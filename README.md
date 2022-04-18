@@ -7,7 +7,7 @@ I’m a front-end developer based in Mexico with 7 years of experience in the so
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
-🌱 &nbsp;&nbsp;Now I am learning Vue.
+🌱 &nbsp;&nbsp;Now I am learning Swift.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing.
 
