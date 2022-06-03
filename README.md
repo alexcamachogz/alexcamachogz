@@ -1,5 +1,5 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Alex
-<img src="https://pbs.twimg.com/profile_banners/1697747342/1642703226/1500x500" alt="banner that says Alejandra Camacho - Software development enfineer">
+<img src="https://github.com/alexcamachogz/random_images/blob/main/alexcamachogz.png?raw=true" alt="banner that says Alejandra Camacho - Software development enfineer">
 
 <!-- https://github.com/alexcamachogz/alexcamachogz/blob/a2baf4c4607a5e27e6d01b4b720d1088e85bac2a/alex-banner.png?raw=true -->
 
