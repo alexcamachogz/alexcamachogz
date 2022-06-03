@@ -34,7 +34,7 @@ I’m a front-end developer based in Mexico with 7 years of experience in the so
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://dev.to/alexcamachogz">Dev.to</a>
+- Writing in <a href="https://platzi.com/blog/autores/alexcamachogz/">Platzi</a>
 - Talking and sharing in <a href="https://twitter.com/alexcamachogz">Twitter</a>
 - Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a>
 - And know a little more about my work in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>
