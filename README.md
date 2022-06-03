@@ -33,6 +33,19 @@ I’m a front-end developer based in Mexico with 7 years of experience in the so
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## ⚒️ &nbsp;&nbsp;My projects:
+- [Quizz](https://github.com/alexcamachogz/quizz-multioption)
+ 
+Quizz is an app that let you response some pre loaded questions and know if your answer is correct or not. You will be able to study using this app to prepare for your exams.
+
+- [Egg Timer](https://github.com/alexcamachogz/EggTimer)
+
+Egg Timer track the time to boil your eggs to perfection, depending on how you prefer your yolks.
+
+- [Who is that pokemon?](https://pokemon.alexcamachogz.tech)
+
+This project is a pokemon game. You should guess which pokemon is it in every round. You can see the project here
+
 ## 🌎 &nbsp;&nbsp;Find me around the web:
 - Writing in <a href="https://platzi.com/blog/autores/alexcamachogz/">Platzi</a>
 - Talking and sharing in <a href="https://twitter.com/alexcamachogz">Twitter</a>
