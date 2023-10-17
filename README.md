@@ -47,7 +47,7 @@ Egg Timer track the time to boil your eggs to perfection, depending on how you p
 This project is a pokemon game. You should guess which pokemon is it in every round. You can see the project here
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://platzi.com/blog/autores/alexcamachogz/">Platzi</a>
+- Writing in <a href="">Medium</a>
 - Talking and sharing in <a href="https://twitter.com/alexcamachogz">Twitter</a>
 - Experimenting with CSS in <a href="https://codepen.io/alexcamachogz">Codepen</a>
 - And know a little more about my work in <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>
