@@ -5,11 +5,11 @@
 
 <!-- https://github.com/alexcamachogz/alexcamachogz/blob/a2baf4c4607a5e27e6d01b4b720d1088e85bac2a/alex-banner.png?raw=true -->
 
-I’m a front-end developer based in Mexico with 7 years of experience in the software industry. I have worked on projects with a development environment based on Angular. I also have experience in the layout and integration of web applications using tools like GitHub, Notion, Slack, and Jira. Furthermore, I like to work in teams, and I enjoy writing blogs about the things that I am learning.
+As a software engineer with seven years of experience, I have specialized in developing applications using Angular, MongoDB, and Node.js. I am also experienced in integrating web applications using tools such as GitHub, Notion, Slack, and Jira. In addition, I am certified in Cisco DevNet Associate and as a Scrum Master, and I enjoy working in teams and sharing my knowledge through blogs and written media.
 
 <!-- 👩🏻‍💻 &nbsp;&nbsp;I'm currently working as an Academic Coach at <a href="https://www.platzi.com">@Platzi</a>. -->
 
-🌱 &nbsp;&nbsp;Now I am learning Swift.
+🌱 &nbsp;&nbsp;Now I am working in Vue3 projects.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing.
 
